@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="name">Name *</string>
+    <string name="surname">Surname *</string>
+    <string name="phone">Phone *</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <item type="id" name="delete_item"/>
+    <item type="id" name="edit_item"/>
+</resources>
